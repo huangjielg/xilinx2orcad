@@ -18,7 +18,7 @@ proc ::capGUIUtils::capShowPropertyEnabler {} {
         set lObjType [DboBaseObject_GetObjectType $lObj] 
         set lEnableAdd 1 
     } 
-            
+         
     return $lEnableAdd
 }
 
