@@ -1,0 +1,5 @@
+xilinxpin2reverse/define.vh
+xilinxpin2reverse/mem_init.vh
+xilinxpin2reverse/pin.xdc
+xilinxpin2reverse/*.rar
+.dvt
